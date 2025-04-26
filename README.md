@@ -1,4 +1,6 @@
-# car-brands-image-classification
-machine learning on image classification of car brands using python to build, train and deploy.
+<h1 align="center">ML car classification</h1>
 
-some project from 10th grade machine learning class. idk. this image classification only support BMW, Audi, and Subaru.
+ML Project on Image Classification Using Python and PyTorch, this deep learning project focuses on image classification, this is for classifying images into three car brands:
+- Audi
+- BMW
+- Tesla
